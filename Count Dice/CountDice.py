@@ -2,7 +2,7 @@
 
 # List of id like : ["886735784", "284", "886738926", "886732682"]
 # You can get the id from the furni data
-FURNI_ID = [""]
+FURNI_ID = ["2075527284"]
 
 # --------------------
 
